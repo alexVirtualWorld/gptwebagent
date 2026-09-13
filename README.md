@@ -9,6 +9,17 @@
 - skill promotion workflow
 - persistent context loader for identity / memory / skills / recent daily logs
 
+
+## Video Tutorial
+
+A complete step-by-step tutorial is available on YouTube:
+
+[![GPT Web Agent Setup Tutorial](https://img.youtube.com/vi/6g6qvR7GlLA/maxresdefault.jpg)](https://www.youtube.com/watch?v=6g6qvR7GlLA)
+
+**[▶ Watch the tutorial on YouTube](https://www.youtube.com/watch?v=6g6qvR7GlLA)**
+
+
+
 ## Install
 
 Python 3.10+ is required by the current MCP Python SDK.
